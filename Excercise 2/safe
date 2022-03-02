@@ -1,0 +1,29 @@
+ul {
+    background-color: black;
+    list-style-type: none;
+    float: left;
+    position: absolute;
+    height: 70px;
+    width: 90%;
+    top: 0px;
+    right: 20px;
+}
+
+ul li {
+    padding-top: 20px;
+    padding-bottom: 80px;
+    margin-left: 60px;
+    display: inline-block;
+    margin-left: 100px;
+}
+
+ul li a {
+    list-style: none;
+    text-align: none;
+    text-decoration: none;
+}
+
+.nav {
+    background-color: black;
+    width: 100%;
+}
